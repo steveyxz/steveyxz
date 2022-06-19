@@ -1,12 +1,13 @@
 
 ## **🔨 Working on**
-- Java game library with LWJGL
-- A remake of Hypixel Skyblock
+- Java games with libGDX (100% best game library)
+- A remake of Hypixel Skyblock (along with other plugins pstpst SimpleLuckyBlocks)
 - My algorithmic programming skills ☹️
 
 ## **📘 Learning**
-- Netty.io (best java networking library no bias)
 - C++
+- How to use libGDX better
+- ECS infrastructure
 
 #
 
