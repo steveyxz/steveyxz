@@ -1,13 +1,13 @@
 
 ## **🔨 Working on**
-- Java games with libGDX (100% best game library)
-- A remake of Hypixel Skyblock (along with other plugins pstpst SimpleLuckyBlocks)
-- My algorithmic programming skills ☹️
+- Various java programs
+- AIO practise and more algorithm stuff
+- Some front end?
 
 ## **📘 Learning**
-- C++
-- How to use libGDX better
-- ECS infrastructure
+- Rust language
+- Components of neural networks
+- Math stuff
 
 #
 
